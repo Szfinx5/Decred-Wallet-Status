@@ -1,0 +1,1 @@
+# Decred-Wallet-Status
