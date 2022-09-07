@@ -16,7 +16,7 @@ The Decred-Wallet Status Checker SSH into each virtual servers, issue a command 
 ## Plans for the future?
 This application is only the backbend solution, it fetches the data from the virtual servers and the block explorer, compare the data and store them. Currently, the front end is a Grafana dashboard, but I am planning to write a simple front end to display the information in an easily understandable way.
 
-## Tech Stack
+## Tech Stack       
 
 For this portfolio page, I have used the following tech:
 - C#
