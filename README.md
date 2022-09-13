@@ -5,7 +5,7 @@
 
 
 ## Why Decred?
-I have started my journey into the Cryptocurrency world at 2016 when I bought my firts stake of Decred (DRC). After doing even more research, I have realised the technological and financial possibilities of the project, learning the theory behind blockchain, proof-of-stake and proof-of-work mining and also the passive income it can create.
+I have started my journey into the Cryptocurrency world at 2016 when I bought my firts stake of Decred (DRC). After doing even more research, I have realised the technological and financial possibilities of the project, learning the theory behind blockchain, proof-of-stake and proof-of-work mining and also the passive income it can create.            
 
 ## What is the Decred-Wallet Status Checker?
 To learn more about how consensus and decision making works in the cryptocurrency world, I started hosting my own proof-of-stake mining pool since the end of 2016. I am still running 3 voting wallets on geographically diverse Linux virtual servers. As those wallets are the ones which confirm my stake on the Decred network and verifying new blocks (therefore earning passive income), it is very important to keep them synced to the network.
